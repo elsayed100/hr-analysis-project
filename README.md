@@ -18,4 +18,5 @@ Engineer. The Dashboard made at the end is for the HR Team of a company.
 ![Home Page](https://user-images.githubusercontent.com/104726222/166163445-277a7bd8-d52d-4925-8352-45b7cfbbf7d8.PNG)
 
 
-## Note: All project details are in the "HR & Job Analysis Presention.pdf" file
+
+### Note: All project details are in the "HR & Job Analysis Presention.pdf" file
