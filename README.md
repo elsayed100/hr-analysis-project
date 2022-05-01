@@ -15,9 +15,9 @@ Engineer. The Dashboard made at the end is for the HR Team of a company.
 ### Link: https://drive.google.com/file/d/1t75az9n_C2uj4CRumQf9SI0QI9PIac3N/view?usp=sharing
 
 ### Steps: 
-1) Dump the file into MySQL Database.
+1) Dump the Dataset file into MySQL Database.
 2) cleaning data using MySQL "sql_queries_cleaning_data.sql" and power Query in PowerBI.
-3) analyzing the data throuh asking and answering the questions about the data using MySQL "sql_queries_analysis_data.sql" and PowerBI.
+3) analyzing the data throuh asking and answering the questions about the data using MySQL "sql_queries_analysis_data.sql" and visualizing using PowerBI.
 
 
 
