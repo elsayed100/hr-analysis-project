@@ -14,8 +14,10 @@ roles like Data Scientist, Data analyst, Business Intelligence, Machine Learning
 Engineer. The Dashboard made at the end is for the HR Team of a company.
 ### Link: https://drive.google.com/file/d/1t75az9n_C2uj4CRumQf9SI0QI9PIac3N/view?usp=sharing
 
-### Steps: Dump the file into your MySQL Database, and then kick start this project :)
-![Home Page](https://user-images.githubusercontent.com/104726222/166163445-277a7bd8-d52d-4925-8352-45b7cfbbf7d8.PNG)
+### Steps: 
+1) Dump the file into MySQL Database.
+2) cleaning data using MySQL "sql_queries_cleaning_data.sql" and power Query in PowerBI.
+3) analyzing the data throuh asking and answering the questions about the data using MySQL "sql_queries_analysis_data.sql" and PowerBI.
 
 
 
