@@ -1,4 +1,4 @@
-# HR & Jops analysis project
+# HR & Jobs analysis project
 
 ## ABOUT THE PROJECT
 Every company has an HR Department which deals with various recruitment and 
